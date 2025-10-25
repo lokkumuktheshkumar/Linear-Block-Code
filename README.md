@@ -94,6 +94,6 @@ add = err + rc
 print(f"The correct codeword is : " + " " .join(map(str,add)))
 ```
 # Output Waveform
-<img width="465" height="847" alt="image" src="https://github.com/user-attachments/assets/3ff70dea-c9bf-499f-af44-e8c1bd0c959c" />
+<img width="491" height="838" alt="image" src="https://github.com/user-attachments/assets/ed07c006-e23b-4b22-a826-b0af3687c3ab" />
 # Results
 Thus the python program to Generate Matrix, Codeword, Hamming weight, Syndrome matrix and find the error on received codeword using Linear block code. 
